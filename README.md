@@ -64,3 +64,9 @@ file.write(tecla.name)
 keyboard.on\_press(imprime\_tecla)
 
 keyboard.wait()
+
+Funciona,teniendo que ejecutar el archivo .py, una vez ejecutas el archivo se guardan todas las teclas pulsadas en el archivo.txt
+
+Aspectos a mejroar:Evitar que se escriban teclas no deseadas,codigo mas limpio ya que si en un futuro se mejora se debe de ver con claridad.
+
+
